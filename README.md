@@ -2,7 +2,7 @@
 
 Add this to the end of info.plist file with the app's information from Developers Facebook Console:
 
-
+```xml
 <key>CFBundleURLTypes</key>
     <array>
         <dict>
@@ -23,3 +23,4 @@ Add this to the end of info.plist file with the app's information from Developer
         <string>fbauth2</string>
         <string>fbshareextension</string>
     </array>
+```
