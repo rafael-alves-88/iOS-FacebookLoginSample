@@ -4,6 +4,7 @@
 
 ### 1. Configuring Facebook SDK
 
+- Download Facebook SDK from https://developers.facebook.com/docs/ios;
 - Create a new folder <i>"Documents/FacebookSDK"</i>;
 - Copy <i>"FBSDKCoreKit.framework", "FBSDKLoginKit.framework", "FBSDKShareKit.framework", "Bolts.framework"</i> into this folder;
 - In project structure, create a new folder called <i>"Facebook"</i>;
